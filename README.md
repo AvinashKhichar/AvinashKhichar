@@ -2,11 +2,11 @@
 I'm **Avinash Khichar** 🚀
 
 # 💫 About Me:
-- 🔭 I’m currently building... privacy-first Android apps and scalable backend systems.
-- 🌱 I’m currently learning... advanced Android architecture, backend scalability, and system design.
-- 👯 I’m looking to collaborate on... Android, backend, or social-impact tech projects.
-- 💬 Ask me about... Kotlin, Jetpack Compose, Spring Boot, REST APIs, or why my app works after restarting Android Studio.
-- ⚡ Fun fact: I don’t track users — because privacy > analytics 😌
+- 🔭 I’m currently building... scalable distributed systems, microservices, and robust REST APIs.
+- 🌱 I’m currently learning... advanced system design, database query optimization, and high-throughput caching.
+- 👯 I’m looking to collaborate on... complex backend challenges, open-source APIs, or data-intensive backend projects.
+- 💬 Ask me about... Java, Spring Boot, PostgreSQL, Redis, or system design trade-offs.
+- ⚡ Fun fact: I treat my database queries like my coffee—optimized and blazingly fast ☕
 
 🎓 **B.E. Information Technology (2023–2027)**  
 🏫 **Army Institute of Technology, Pune**  
